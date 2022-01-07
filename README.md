@@ -1,2 +1,2 @@
 # zsh-install
-Auto install zsh and omz on Ubuntu
+Auto install zsh and omz
