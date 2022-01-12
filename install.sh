@@ -1,5 +1,5 @@
 #!/bin/sh
-if                                                        17:42:33
+if
 [ ! -d /home/smcadmin/.oh-my-zsh ]
 then
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" "" --unattended
