@@ -7,4 +7,4 @@ fi
 
 curl https://raw.githubusercontent.com/smchunn/zsh-install/main/smchunn.zsh-theme -o ~/.oh-my-zsh/custom/themes/smchunn.zsh-theme
 
-sed -i 's/^ZSH_THEME.*/ZSH_THEME="smchunn"/' ~/.zshrc
+sed -i'.bak' 's/^ZSH_THEME.*/ZSH_THEME="smchunn"/' ~/.zshrc
